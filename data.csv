@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "611e20a4b7e1442f3c2f96e5",
+    "bank": "State Bank of India",
+    "cardType": "Credit Card",
+    "cardProvider": "Visa"
+  },
+  {
+    "_id": "611e20c2b7e1442f3c2f96e6",
+    "bank": "HDFC Bank",
+    "cardType": "Debit Card",
+    "cardProvider": "MasterCard"
+  },
+  {
+    "_id": "611e20d8b7e1442f3c2f96e7",
+    "bank": "ICICI Bank",
+    "cardType": "Credit Card",
+    "cardProvider": "American Express"
+  },
+  {
+    "_id": "611e20ebb7e1442f3c2f96e8",
+    "bank": "Axis Bank",
+    "cardType": "Credit Card",
+    "cardProvider": "Visa"
+},
+
+{
+  "_id": "60ed80e1c2be1410e0c97881",
+  "bank": "State Bank of India",
+  "cardType": "Prepaid Card",
+  "cardProvider": "MasterCard"
+}
+]

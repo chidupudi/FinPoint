@@ -1,0 +1,40 @@
+.about-us-container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .about-us-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .about-us-content {
+    margin-left: 20px;
+  }
+  
+  .about-us-content h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-content p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .about-us-container {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .about-us-content {
+      margin-left: 0;
+      margin-top: 20px;
+    }
+  }
+  
